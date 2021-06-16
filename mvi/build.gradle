@@ -73,7 +73,7 @@ afterEvaluate {
                 from components.release
 
                 // You can then customize attributes of the publication as shown below.
-                groupId = 'com.odifek.android'
+                groupId = 'com.github.odifek.belovedmvi'
                 artifactId = 'mvi'
                 version = android.defaultConfig.versionName
             }
